@@ -1,0 +1,93 @@
+{
+    "Rendement": {
+      "objectif": "Maximiser le retour sur investissement via les dividendes et les gains en capital.",
+      "dividendYield": 1,
+      "returnOnEquity": 1,
+      "freeCashflow": 1,
+      "netProfitMargin": 1,
+      "operatingCashFlow": 1
+    },
+    "Security": {
+      "objectif": "Investir dans des entreprises financièrement solides avec un risque minimal.",
+      "currentRatio": 1,
+      "quickRatio": 1,
+      "interestCoverageRatio": 1,
+      "debtToEquity": -1,
+      "operatingCashFlow": 1
+    },
+    "Growth": {
+      "objectif": "Investir dans des entreprises avec un fort potentiel de croissance.",
+      "revenueGrowth": 2,
+      "pegRatio": -1,
+      "priceToSalesTrailing12Months": -1,
+      "ebitdaMargins": 1,
+      "returnOnCapitalEmployed": 1,
+      "priceEarningsToSalesGrowth": -1
+    },
+    "Risks": {
+      "objectif": "Identifier les entreprises avec des niveaux de risque élevés pour des investissements potentiellement spéculatifs ou pour éviter les entreprises risquées.",
+      "debtToEquity": 1,
+      "interestCoverageRatio": -1,
+      "currentRatio": -1,
+      "quickRatio": -1,
+      "beta": 1
+    },
+    "Valuation": {
+      "objectif": "Investir dans des entreprises sous-évaluées par rapport à leurs fondamentaux.",
+      "forwardPE": -1,
+      "priceToBook": -1,
+      "priceToSalesTrailing12Months": -1,
+      "pegRatio": -1,
+      "enterpriseValueToEBITDA": -1
+    },
+    "Profitability": {
+      "objectif": "Investir dans des entreprises très rentables.",
+      "grossMargins": 1,
+      "netProfitMargin": 1,
+      "returnOnEquity": 1,
+      "returnOnAssets": 1,
+      "returnOnCapitalEmployed": 1
+    },
+    "Liquidity": {
+      "objectif": "Investir dans des entreprises avec une forte liquidité pour assurer une bonne gestion des flux de trésorerie à court terme.",
+      "currentRatio": 1,
+      "quickRatio": 1,
+      "operatingCashFlow": 1,
+      "freeCashflow": 1,
+      "cashConversionCycle": -1
+    },
+    "GrowthAtAReasonablePrice": {
+      "objectif": "Investir dans des entreprises avec un bon potentiel de croissance tout en étant raisonnablement valorisées.",
+      "revenueGrowth": 2,
+      "pegRatio": -1,
+      "priceToSalesTrailing12Months": -1,
+      "ebitdaMargins": 1,
+      "freeCashflow": 1,
+      "returnOnCapitalEmployed": 1
+    },
+    "HighDividendYield": {
+      "objectif": "Investir dans des entreprises avec un rendement de dividende élevé.",
+      "dividendYield": 2,
+      "dividendPayoutRatio": 1,
+      "freeCashflow": 1,
+      "netProfitMargin": 1,
+      "returnOnEquity": 1
+    },
+    "LowVolatility": {
+      "objectif": "Investir dans des entreprises avec une faible volatilité pour minimiser les risques de fluctuations importantes.",
+      "beta": -1,
+      "currentRatio": 1,
+      "quickRatio": 1,
+      "debtToEquity": -1,
+      "interestCoverageRatio": 1
+    },
+    "SmallCap": {
+      "objectif": "Investir dans des entreprises à faible capitalisation boursière avec un fort potentiel de croissance.",
+      "marketCap": -1,
+      "revenueGrowth": 2,
+      "returnOnEquity": 1,
+      "freeCashflow": 1,
+      "pegRatio": -1
+    }
+  }
+  
